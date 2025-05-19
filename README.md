@@ -1,6 +1,8 @@
 # App Starter Project with Webpack
 
-Proyek ini adalah setup dasar untuk aplikasi web yang menggunakan webpack untuk proses bundling, Babel untuk transpile JavaScript, serta mendukung proses build dan serving aplikasi.
+Proyek ini adalah setup dasar untuk aplikasi web yang menggunakan webpack untuk proses bundling, Babel untuk transpile JavaScript, serta mendukung proses build dan serving aplikasi.<br>
+
+Hasil Website Deployment: **https://animated-lokum-97045d.netlify.app/**
 
 ## Table of Contents
 
