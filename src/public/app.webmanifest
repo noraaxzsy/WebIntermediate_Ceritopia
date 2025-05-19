@@ -1,0 +1,115 @@
+{
+  "id": "/#/",
+  "start_url": "/#/",
+  "scope": "/",
+  "name": "Ceritopia App",
+  "short_name": "Ceritopia",
+  "description": "Aplikasi berbagi cerita ke seluruh dunia. Mulailah dengan sebuah cerita, ciptakan dunia yang hanya bisa lahir dari imajinasimu, dan bagikan kisah itu untuk menginspirasi, menghubungkan, dan menggerakkan hati banyak orang.",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#5bceb9",
+  "icons": [
+    {
+      "src": "images/icons/maskable-icon-x144.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/maskable-icon-x48.png",
+      "type": "image/png",
+      "sizes": "48x48",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/icons/maskable-icon-x96.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/icons/maskable-icon-x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/icons/maskable-icon-x384.png",
+      "type": "image/png",
+      "sizes": "384x384",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/icons/maskable-icon-x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshots/Ceritopia_001.png",
+      "sizes": "1918x1069",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshots/Ceritopia_002.png",
+      "sizes": "1918x1069",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshots/Ceritopia_003.png",
+      "sizes": "1918x1069",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshots/Ceritopia_004.png",
+      "sizes": "430x888",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "images/screenshots/Ceritopia_005.png",
+      "sizes": "430x888",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "images/screenshots/Ceritopia_006.png",
+      "sizes": "430x888",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Unggah Cerita Baru",
+      "short_name": "Baru",
+      "description": "Membuat cerita baru.",
+      "url": "/?source=pwa#/new",
+      "icons": [
+        {
+          "src": "images/icons/add-x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
+    },
+    {
+      "name": "Cerita Tersimpan",
+      "short_name": "Tersimpan",
+      "description": "Lihat daftar cerita yang tersimpan.",
+      "url": "/?source=pwa#/bookmark",
+      "icons": [
+        {
+          "src": "images/icons/bookmark-x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
+    }
+  ]
+}

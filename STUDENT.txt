@@ -1,0 +1,2 @@
+APP_URL=https://animated-lokum-97045d.netlify.app/
+MAP_SERVICE_API_KEY= "JslpAHMa40A2hsYfkTqs"
